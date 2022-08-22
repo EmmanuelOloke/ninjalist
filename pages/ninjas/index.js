@@ -5,6 +5,7 @@ const Ninjas = () => {
     <>
       <Head>
         <title>Ninja Lists | All Ninjas</title>
+        <meta name="keywords" content="ninjas" />
       </Head>
       <div>
         <h1>All Ninjas</h1>
